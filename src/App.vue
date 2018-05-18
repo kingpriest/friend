@@ -4,7 +4,6 @@
     <home></home>
     <mycomp></mycomp>
     <three></three>
-    <img src="./assets/logo.png">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <cpt1></cpt1>
